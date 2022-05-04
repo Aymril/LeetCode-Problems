@@ -1,3 +1,5 @@
+https://medium.com/@Imral1919/leetcode-problem-142-linked-list-cycle-ii-d09cc8578585
+
 // Listenin node yapisi
 struct Node {
     int val;
